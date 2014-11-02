@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b861bcd8-6022-40f3-9ad1-03a47b60bdda" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KolyAndron/templates/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KolyAndron/templates/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KolyAndron/templates/geeks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KolyAndron/templates/group.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KolyAndron/templates/groups.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KolyAndron/templates/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KolyAndron/templates/myprofile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KolyAndron/templates/news.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KolyAndron/templates/newsdetail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KolyAndron/templates/topmenu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/docs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ico/bootstrap-apple-114x114.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ico/bootstrap-apple-57x57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ico/bootstrap-apple-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ico/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/bird.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/browsers.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/example-diagram-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/example-diagram-02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/example-diagram-03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/geek.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/grid-18px.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/twitter-logo-no-bird.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/application.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/google-code-prettify/prettify.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/google-code-prettify/prettify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/js/bootstrap-alerts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/js/bootstrap-buttons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/js/bootstrap-dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/js/bootstrap-modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/js/bootstrap-popover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/js/bootstrap-scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/js/bootstrap-tabs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/js/bootstrap-twipsy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/js/tests/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/js/tests/unit/bootstrap-alerts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/js/tests/unit/bootstrap-buttons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/js/tests/unit/bootstrap-dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/js/tests/unit/bootstrap-modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/js/tests/unit/bootstrap-popover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/js/tests/unit/bootstrap-scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/js/tests/unit/bootstrap-tabs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/js/tests/unit/bootstrap-twipsy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/js/tests/vendor/qunit.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/js/tests/vendor/qunit.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/css/bootstrap.css" afterPath="$PROJECT_DIR$/KolyAndron/static/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/KolyAndron/static/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/css/docs.css" afterPath="$PROJECT_DIR$/KolyAndron/static/css/docs.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/ico/bootstrap-apple-114x114.png" afterPath="$PROJECT_DIR$/KolyAndron/static/ico/bootstrap-apple-114x114.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/ico/bootstrap-apple-57x57.png" afterPath="$PROJECT_DIR$/KolyAndron/static/ico/bootstrap-apple-57x57.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/ico/bootstrap-apple-72x72.png" afterPath="$PROJECT_DIR$/KolyAndron/static/ico/bootstrap-apple-72x72.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/ico/favicon.ico" afterPath="$PROJECT_DIR$/KolyAndron/static/ico/favicon.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/img/bird.png" afterPath="$PROJECT_DIR$/KolyAndron/static/img/bird.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/img/browsers.png" afterPath="$PROJECT_DIR$/KolyAndron/static/img/browsers.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/img/example-diagram-01.png" afterPath="$PROJECT_DIR$/KolyAndron/static/img/example-diagram-01.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/img/example-diagram-02.png" afterPath="$PROJECT_DIR$/KolyAndron/static/img/example-diagram-02.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/img/example-diagram-03.png" afterPath="$PROJECT_DIR$/KolyAndron/static/img/example-diagram-03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/img/geek.jpg" afterPath="$PROJECT_DIR$/KolyAndron/static/img/geek.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/img/grid-18px.png" afterPath="$PROJECT_DIR$/KolyAndron/static/img/grid-18px.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/img/twitter-logo-no-bird.png" afterPath="$PROJECT_DIR$/KolyAndron/static/img/twitter-logo-no-bird.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/application.js" afterPath="$PROJECT_DIR$/KolyAndron/static/js/application.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/google-code-prettify/prettify.css" afterPath="$PROJECT_DIR$/KolyAndron/static/js/google-code-prettify/prettify.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/google-code-prettify/prettify.js" afterPath="$PROJECT_DIR$/KolyAndron/static/js/google-code-prettify/prettify.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/js/bootstrap-alerts.js" afterPath="$PROJECT_DIR$/KolyAndron/static/js/js/bootstrap-alerts.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/js/bootstrap-buttons.js" afterPath="$PROJECT_DIR$/KolyAndron/static/js/js/bootstrap-buttons.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/js/bootstrap-dropdown.js" afterPath="$PROJECT_DIR$/KolyAndron/static/js/js/bootstrap-dropdown.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/js/bootstrap-modal.js" afterPath="$PROJECT_DIR$/KolyAndron/static/js/js/bootstrap-modal.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/js/bootstrap-popover.js" afterPath="$PROJECT_DIR$/KolyAndron/static/js/js/bootstrap-popover.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/js/bootstrap-scrollspy.js" afterPath="$PROJECT_DIR$/KolyAndron/static/js/js/bootstrap-scrollspy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/js/bootstrap-tabs.js" afterPath="$PROJECT_DIR$/KolyAndron/static/js/js/bootstrap-tabs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/js/bootstrap-twipsy.js" afterPath="$PROJECT_DIR$/KolyAndron/static/js/js/bootstrap-twipsy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/js/tests/index.html" afterPath="$PROJECT_DIR$/KolyAndron/static/js/js/tests/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/js/tests/unit/bootstrap-alerts.js" afterPath="$PROJECT_DIR$/KolyAndron/static/js/js/tests/unit/bootstrap-alerts.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/js/tests/unit/bootstrap-buttons.js" afterPath="$PROJECT_DIR$/KolyAndron/static/js/js/tests/unit/bootstrap-buttons.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/js/tests/unit/bootstrap-dropdown.js" afterPath="$PROJECT_DIR$/KolyAndron/static/js/js/tests/unit/bootstrap-dropdown.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/js/tests/unit/bootstrap-modal.js" afterPath="$PROJECT_DIR$/KolyAndron/static/js/js/tests/unit/bootstrap-modal.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/js/tests/unit/bootstrap-popover.js" afterPath="$PROJECT_DIR$/KolyAndron/static/js/js/tests/unit/bootstrap-popover.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/js/tests/unit/bootstrap-scrollspy.js" afterPath="$PROJECT_DIR$/KolyAndron/static/js/js/tests/unit/bootstrap-scrollspy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/js/tests/unit/bootstrap-tabs.js" afterPath="$PROJECT_DIR$/KolyAndron/static/js/js/tests/unit/bootstrap-tabs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/js/tests/unit/bootstrap-twipsy.js" afterPath="$PROJECT_DIR$/KolyAndron/static/js/js/tests/unit/bootstrap-twipsy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/js/tests/vendor/qunit.css" afterPath="$PROJECT_DIR$/KolyAndron/static/js/js/tests/vendor/qunit.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KolyAndron/templates/assets/js/js/tests/vendor/qunit.js" afterPath="$PROJECT_DIR$/KolyAndron/static/js/js/tests/vendor/qunit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KolyAndron/templates/home.html" afterPath="$PROJECT_DIR$/KolyAndron/templates/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KolyAndron/settings.py" afterPath="$PROJECT_DIR$/KolyAndron/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KolyAndron/urls.py" afterPath="$PROJECT_DIR$/KolyAndron/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KolyAndron/view.py" afterPath="$PROJECT_DIR$/KolyAndron/view.py" />
+    </list>
+    <ignored path="KolyAndron.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="KolyAndron" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KolyAndron/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="76" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KolyAndron/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="89" column="4" selection-start="2271" selection-end="2271" vertical-scroll-proportion="0.0" vertical-offset="812" max-vertical-offset="1455">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/KolyAndron/view.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="0" selection-start="527" selection-end="527" vertical-scroll-proportion="0.6998445" vertical-offset="0" max-vertical-offset="643">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KolyAndron/templates/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="12" selection-start="137" selection-end="685" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="570">
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myprofile.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KolyAndron/templates/myprofile.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="7" selection-start="216" selection-end="216" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="330">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="topmenu.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KolyAndron/templates/topmenu.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="34" selection-start="247" selection-end="247" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="390">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/KolyAndron/settings.py" />
+        <option value="$PROJECT_DIR$/KolyAndron/templates/base.html" />
+        <option value="$PROJECT_DIR$/KolyAndron/templates/footer.html" />
+        <option value="$PROJECT_DIR$/KolyAndron/templates/header.html" />
+        <option value="$PROJECT_DIR$/KolyAndron/templates/home.html" />
+        <option value="$PROJECT_DIR$/KolyAndron/templates/topmenu.html" />
+        <option value="$PROJECT_DIR$/KolyAndron/templates/myprofile.html" />
+        <option value="$PROJECT_DIR$/KolyAndron/templates/groups.html" />
+        <option value="$PROJECT_DIR$/KolyAndron/templates/group.html" />
+        <option value="$PROJECT_DIR$/KolyAndron/templates/geeks.html" />
+        <option value="$PROJECT_DIR$/KolyAndron/templates/news.html" />
+        <option value="$PROJECT_DIR$/KolyAndron/templates/newsdetail.html" />
+        <option value="$PROJECT_DIR$/KolyAndron/templates/about.html" />
+        <option value="$PROJECT_DIR$/KolyAndron/urls.py" />
+        <option value="$PROJECT_DIR$/KolyAndron/view.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="64" />
+    <option name="y" value="-4" />
+    <option name="width" value="1303" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KolyAndron" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KolyAndron" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KolyAndron" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KolyAndron" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KolyAndron" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KolyAndron" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KolyAndron" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KolyAndron" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KolyAndron" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/KolyAndron" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="KolyAndron" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="KolyAndron" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="KolyAndron" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="KolyAndron" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="KolyAndron" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="KolyAndron" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b861bcd8-6022-40f3-9ad1-03a47b60bdda" name="Default" comment="" />
+      <created>1414846146888</created>
+      <updated>1414846146888</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-4" width="1303" height="773" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24980783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/KolyAndron/templates/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="9" selection-start="54" selection-end="54" vertical-scroll-proportion="0.048465267" vertical-offset="0" max-vertical-offset="619">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KolyAndron/templates/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="26" selection-start="380" selection-end="380" vertical-scroll-proportion="0.2970297" vertical-offset="0" max-vertical-offset="1170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KolyAndron/templates/topmenu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="34" selection-start="247" selection-end="247" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KolyAndron/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="12" selection-start="137" selection-end="685" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="570">
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KolyAndron/templates/group.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="217" selection-end="217" vertical-scroll-proportion="0.40336135" vertical-offset="0" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KolyAndron/templates/groups.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="217" selection-end="217" vertical-scroll-proportion="0.38772213" vertical-offset="0" max-vertical-offset="619">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KolyAndron/templates/geeks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="217" selection-end="217" vertical-scroll-proportion="0.38772213" vertical-offset="0" max-vertical-offset="619">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KolyAndron/templates/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="217" selection-end="217" vertical-scroll-proportion="0.38772213" vertical-offset="0" max-vertical-offset="619">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KolyAndron/templates/newsdetail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="217" selection-end="217" vertical-scroll-proportion="0.38772213" vertical-offset="0" max-vertical-offset="619">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KolyAndron/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="217" selection-end="217" vertical-scroll-proportion="0.38772213" vertical-offset="0" max-vertical-offset="619">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KolyAndron/templates/myprofile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="7" selection-start="216" selection-end="216" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KolyAndron/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="4" selection-start="2271" selection-end="2271" vertical-scroll-proportion="0.0" vertical-offset="812" max-vertical-offset="1455">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KolyAndron/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="76" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KolyAndron/view.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="527" selection-end="527" vertical-scroll-proportion="0.6998445" vertical-offset="0" max-vertical-offset="643">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
